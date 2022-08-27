@@ -1,0 +1,99 @@
+.div-headerComp{
+  padding: 2px 8px 1px 3px;
+  display: flex;
+  flex-direction: row;
+  background: #5375e2;
+}
+.clgLogo {
+  width:52px;
+  height:52px;
+  padding:5px;
+}
+.text1 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ffffff;
+  margin-left: 3%;
+  margin-bottom: 3px;
+  flex-direction: row;
+}
+.text2 {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: #ffffff;
+  margin-left: 3%;
+  flex-direction: row;
+}
+.UserLogo {
+  width: 36px;
+  height: 36px;
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+.div-hc1{
+  width: 100%;
+}
+.div-hc2{
+  display: flex;
+  flex-direction: row;
+  margin-left: 45%;
+}
+.text3{
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  color: #ffffff;
+  margin-top: 17px;
+  margin-bottom: 14px;
+  margin-left: 20px;
+}
+.create-button {
+  background: #5375e2;
+  font:white;
+  border-radius:5px;
+  /* margin-left: 42%;
+  margin-bottom:10px; */
+  margin:6px 625px 24px;
+
+}
+.buttoncomp{
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  color: #ffffff;
+  padding:10px 23px;
+  border-radius:5px;
+ 
+}
+.div-footer {
+  margin-top: 100px;
+  padding: absolute;
+  background: #fbfbfb;
+  bottom:100%;
+  display: flex;
+  flex-direction:row;
+}
+.ft1{
+  display: flex;
+  flex-direction: column;
+  padding:13px 150px;
+  color:grey;
+}
+.ft2{
+  padding:13px 210px;
+  display: flex;
+  flex-direction: column;
+  color:grey;
+}
+.ft3{
+  display: flex;
+  flex-direction: column;
+  padding:13px 150px;
+  color:grey;
+}
+.noschedule{
+  margin-left:20px;
+  padding-bottom:30px;
+}
